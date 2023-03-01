@@ -31,7 +31,7 @@ a {
     color: var(--text-color);
 }
 
-.visually_hidden {
+.visually-hidden {
     display: none;
 }
 

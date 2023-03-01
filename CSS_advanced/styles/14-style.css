@@ -63,7 +63,7 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
-.visually_hidden {
+.visually-hidden {
     display: none;
 }
 
