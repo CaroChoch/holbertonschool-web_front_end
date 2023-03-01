@@ -83,15 +83,13 @@ html {
 
 body {
     color: var(--text-color);
-    /* add */
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
 
-/*body, */
-/* to add ? */
+body,
 a:link {
     color: var(--text-color);
     text-decoration: none;
@@ -208,7 +206,6 @@ h6 {
 .footer {
     padding: var(--footer-padding);
 }
-
 
 .navbar-menu {
     float: right;
